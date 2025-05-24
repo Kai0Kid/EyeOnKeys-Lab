@@ -63,8 +63,6 @@ Public IP: 171...***
 [ENTER]Hello world[SPACE]Bye[BACKSPACE]
 ```
 
-
-
 ## 📦 Requirements
 
 - Python 3.6+
@@ -77,5 +75,6 @@ Install dependencies with:
 pip install -r requirements.txt
 
 💡 You can customize the project as you like, such as modifying it to send logs via Telegram, Discord, Gmail, or any other preferre.
+
 
 GitHub: https://github.com/Kai0Kid
